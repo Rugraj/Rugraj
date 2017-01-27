@@ -1,0 +1,5 @@
+---
+applications:
+- name: "rugraj-boot2"
+  memory: 512M
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
